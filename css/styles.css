@@ -29,10 +29,14 @@ section {
 }
 
 a {
-  color: orange;
+  color: #87c490;
+}
+
+a:hover {
+  color: #5a1f87;
 }
 
 header {
   padding: 154px 0 100px;
-  background-color: #448ee4;
+  background-color: #56845d;
 }
